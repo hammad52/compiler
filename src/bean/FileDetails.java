@@ -2,6 +2,7 @@ package bean;
 
 public class FileDetails {
 	String fileName,fileType;
+	String classFile;
 
 	public String getFileName() {
 		return fileName;
